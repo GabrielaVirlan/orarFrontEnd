@@ -1,0 +1,14 @@
+C:\orarFrontEnd\bin\Debug\netcoreapp2.2\AplicatieOrar.deps.json
+C:\orarFrontEnd\bin\Debug\netcoreapp2.2\AplicatieOrar.runtimeconfig.json
+C:\orarFrontEnd\bin\Debug\netcoreapp2.2\AplicatieOrar.runtimeconfig.dev.json
+C:\orarFrontEnd\bin\Debug\netcoreapp2.2\AplicatieOrar.dll
+C:\orarFrontEnd\bin\Debug\netcoreapp2.2\AplicatieOrar.pdb
+C:\orarFrontEnd\obj\Debug\netcoreapp2.2\AplicatieOrar.csprojAssemblyReference.cache
+C:\orarFrontEnd\obj\Debug\netcoreapp2.2\AplicatieOrar.csproj.CoreCompileInputs.cache
+C:\orarFrontEnd\obj\Debug\netcoreapp2.2\AplicatieOrar.RazorAssemblyInfo.cache
+C:\orarFrontEnd\obj\Debug\netcoreapp2.2\AplicatieOrar.RazorAssemblyInfo.cs
+C:\orarFrontEnd\obj\Debug\netcoreapp2.2\AplicatieOrar.AssemblyInfoInputs.cache
+C:\orarFrontEnd\obj\Debug\netcoreapp2.2\AplicatieOrar.AssemblyInfo.cs
+C:\orarFrontEnd\obj\Debug\netcoreapp2.2\AplicatieOrar.RazorTargetAssemblyInfo.cache
+C:\orarFrontEnd\obj\Debug\netcoreapp2.2\AplicatieOrar.dll
+C:\orarFrontEnd\obj\Debug\netcoreapp2.2\AplicatieOrar.pdb
